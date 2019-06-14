@@ -1,0 +1,8 @@
+
+Client/client
+Server/server
+*.d
+*.o
+
+/Client/
+/Server/
